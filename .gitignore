@@ -1,0 +1,10 @@
+.DS_Store
+
+# IDE configuration files
+.idea/
+
+# Node modules
+node_modules/
+
+# Dist folder
+dist/
